@@ -10,4 +10,6 @@ Anticheat that are safe to use and doesn't use such exploitation
 - FiveSafety
 - Fiveguard
 
+make sure to protect your files using [luauth](https://luauth.io) so it don't get cracked like this :p
+
 credits go to kkonann / ciastekbatak for exposing this and to fini1337 for making this
