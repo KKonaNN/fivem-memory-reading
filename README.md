@@ -12,4 +12,8 @@ Anticheat that are safe to use and doesn't use such exploitation
 
 make sure to protect your files using [luauth](https://luauth.io) so it don't get cracked like this :p
 
+<h1>ITS PATCHED</h1>
+
+![](https://media1.tenor.com/m/WMoBRl_LYa4AAAAC/khabib-alhamdulillah.gif)
+
 credits go to kkonann / ciastekbatak for exposing this and to fini1337 for making this
